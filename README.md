@@ -1,3 +1,10 @@
+The smart project is kind of vehicle infotainment system project.   
+When it recognizes the driver's drowsiness, it awakens the driver with a sound and informs the surrounding cars with LEDs.    
+"smart_project.py" contains code that gives warning messages to nearby cars with LEDs.    
+The LED control used Henner Zeller open source.   
+   
+   
+   
 Controlling RGB LED display with Raspberry Pi GPIO
 ==================================================
 
